@@ -6,7 +6,7 @@ export default function Navbar() {
     <nav className="navbar mb-6" role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
         <a href="/" className="navbar-item" >
-          <div className="is-title is-size-4 has-text-weight-bold">Products</div>
+          <div className="is-title is-size-4 has-text-weight-bold">Items</div>
         </a>
 
         <a href="/" role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
